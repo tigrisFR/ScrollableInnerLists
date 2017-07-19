@@ -1,4 +1,4 @@
-package fr.nabonne.tigris.scrollableinnerliststrial;
+package fr.nabonne.tigris.trials.scrollableinnerlists;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

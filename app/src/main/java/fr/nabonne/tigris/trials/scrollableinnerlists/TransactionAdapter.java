@@ -1,4 +1,4 @@
-package fr.nabonne.tigris.scrollableinnerliststrial;
+package fr.nabonne.tigris.trials.scrollableinnerlists;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;

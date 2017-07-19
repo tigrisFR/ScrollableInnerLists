@@ -1,4 +1,4 @@
-package fr.nabonne.tigris.scrollableinnerliststrial;
+package fr.nabonne.tigris.trials.scrollableinnerlists;
 
 import java.util.ArrayList;
 import java.util.List;
